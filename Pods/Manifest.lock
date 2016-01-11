@@ -1,0 +1,10 @@
+PODS:
+  - ImoDynamicTableView (2.3.0)
+
+DEPENDENCIES:
+  - ImoDynamicTableView
+
+SPEC CHECKSUMS:
+  ImoDynamicTableView: 4657f927eb965816c546a13e65ee73260b04268d
+
+COCOAPODS: 0.39.0

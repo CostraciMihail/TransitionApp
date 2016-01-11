@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ImoDynamicTableView-ImoDynamicTableView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ImoDynamicTableView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TransactionApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1182B1E73438F9DEA7EBAED609B32752</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6C976117A497FC0DEEF9DA3F6A114322</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A400A673D1AC0BAB67963E1AE13DAD75</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
